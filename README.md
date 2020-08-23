@@ -9,7 +9,9 @@ Make sure there is a footer at the bottom of each page.
 
 ## Installation
 
-
+Add the repository to your GitHub account.
+make the repo root master so that we can publish our site.
+copy and paste that URL into your browser.
 
 ## Usage
 
